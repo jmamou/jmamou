@@ -1,6 +1,6 @@
 # Jonathan Mamou
 
-Senior AI Research Scientist & Engineer at **Intel** | 20+ years of industrial research (Intel Labs, IBM Research)
+AI Research Scientist & Engineer at **Intel** | 20+ years of industrial research (Intel Labs, IBM Research)
 
 I work on making LLM inference faster and more efficient -- speculative decoding, CPU optimization, and serving infrastructure.
 
